@@ -9,11 +9,11 @@
 //{
 //    class Problems
 //    {
-//        private LinqcommerceContext _context;
+//        private EcommerceContext _context;
 
 //        public Problems()
 //        {
-//            _context = new LinqcommerceContext();
+//            _context = new EcommerceContext();
 //        }
 //        public void RunLINQQueries()
 //        {
